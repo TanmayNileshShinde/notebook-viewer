@@ -5,7 +5,7 @@ import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 const MY_FILES = [
-  "madmax.ipynb"
+  "madmax.ipynb",
   "dududu.ipynb"
 ];
 
