@@ -102,18 +102,7 @@ function App() {
           )}
         </div>
         
-        {/* Fake Dev Profile at bottom */}
-        <div className="p-4 border-t border-zinc-900">
-          <div className="flex items-center gap-3 px-2">
-            <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-cyan-500 to-blue-600 p-[1px]">
-              <div className="w-full h-full bg-zinc-950 rounded-full flex items-center justify-center text-xs font-bold text-white">TS</div>
-            </div>
-            <div className="flex flex-col">
-              <span className="text-xs font-bold text-zinc-300">Admin</span>
-              <span className="text-[10px] text-zinc-600 font-mono">localhost:5173</span>
-            </div>
-          </div>
-        </div>
+        
       </aside>
 
       {/* Main Content Area */}
