@@ -6,7 +6,8 @@ import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 const MY_FILES = [
   "madmax.ipynb",
-  "dududu.ipynb"
+  "dududu.ipynb",
+  "kpsoft.ipynb"
 ];
 
 function App() {
